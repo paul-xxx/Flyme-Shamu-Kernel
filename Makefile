@@ -371,7 +371,7 @@ LINUXINCLUDE    := \
 
 KBUILD_CPPFLAGS := -D__KERNEL__
 
-KBUILD_CFLAGS   := $(GRAPHITE) -Wall -pipe -pthread -DNDEBUG -Wundef -Wstrict-prototypes -Wno-trigraphs \
+KBUILD_CFLAGS   := $(GRAPHITE) -Wall -pipe -DNDEBUG -Wundef -Wstrict-prototypes -Wno-trigraphs \
 		   -fstrict-aliasing -fivopts -fipa-pta -fira-hoist-pressure -fno-common \
 		   -ftree-loop-distribution -ftree-loop-if-convert -fprefetch-loop-arrays \
 		   -ftree-vectorize -mvectorize-with-neon-quad \

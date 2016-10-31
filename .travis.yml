@@ -3,8 +3,6 @@ dist: trusty
 before_install:
   - sudo apt-get -qq update
   - sudo apt-get install -y build-essential kernel-package libncurses5-dev bzip2 git
-  - mkdir android
-  - cd android
   - git clone https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8 arm-eabi-4.8
   - export ARCH=arm
   - export CROSS_COMPILE=~/android/arm-eabi-4.8/bin/arm-eabi-

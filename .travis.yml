@@ -6,4 +6,5 @@ before_install:
   - git clone https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8 arm-eabi-4.8
   - export ARCH=arm
   - export CROSS_COMPILE=~/android/arm-eabi-4.8/bin/arm-eabi-
+  - chmod +x ./buildScript.sh
 script: ./buildScript.sh

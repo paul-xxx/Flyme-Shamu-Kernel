@@ -1,5 +1,8 @@
 language: android
 dist: trusty
+cache:
+  directories:
+  - /home/travis/build/ryanguy426/Flyme-Shamu-Kernel/arch/arm/boot
 before_install:
   - sudo apt-get -qq update
   - sudo apt-get install -y build-essential kernel-package libncurses5-dev bzip2 git

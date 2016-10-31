@@ -11,7 +11,7 @@ This Kernel is for Nexus 6 (shamu); Specifically for [Flyme 5.1.10.24R beta](htt
 
 ## Features
 
-* F2FS (***WIP***)
+* F2FS (***WIP - BROKEN***)
 * CPU overclock to 2649MHz
 * GPU overclock to 700MHz
 * GPU underclock to 110MHz

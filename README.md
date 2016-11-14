@@ -1,5 +1,7 @@
-# (ON HOLD FOR MIUI 8 KERNEL) Flyme-Shamu-Kernel [![Build Status](https://travis-ci.org/ryanguy426/Flyme-Shamu-Kernel.svg?branch=android-msm-shamu-3.10-lollipop-release)](https://travis-ci.org/ryanguy426/Flyme-Shamu-Kernel)
+# Flyme-Shamu-Kernel [![Build Status](https://travis-ci.org/ryanguy426/Flyme-Shamu-Kernel.svg?branch=android-msm-shamu-3.10-lollipop-release)](https://travis-ci.org/ryanguy426/Flyme-Shamu-Kernel)
 ### [LICENSE](https://raw.githubusercontent.com/ryanguy426/Flyme-Shamu-Kernel/android-msm-shamu-3.10-lollipop-release/LICENSE)
+
+## ON HOLD FOR MIUI 8 KERNEL
 
 This Kernel is for Nexus 6 (shamu); Specifically for [Flyme 5.1.10.24R beta](http://flyme.cn/firmwarelist-33.html#6).
 
